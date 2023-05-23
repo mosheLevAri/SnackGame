@@ -1,12 +1,19 @@
 # Snake Game
 
+
+
 - The Snake Game is a simple console-based game where the player controls a snake to eat food and grow longer. The objective is to achieve the highest score possible without colliding with the walls or the snake's own body.
 
 - The game is designed using Object-Oriented Programming (OOP) principles, allowing for easy extensibility and modularity. The game follows the SOLID principles, ensuring a clean and maintainable code structure.
 
 - The Snake Game serves as a generic framework that can be easily adapted to create similar types of games, such as Pac-Man or other grid-based games. By leveraging the power of OOP and adhering to SOLID principles, developers can easily replace the game components, such as the snake and food, to create their own unique gaming experiences.
 
-#### So, get ready to embark on a thrilling adventure with the Snake Game, where your strategic thinking and reflexes will be put to the test! Can you guide the snake to victory and achieve the highest score? Let's find out!
+
+
+			So, get ready to embark on a thrilling adventure with the Snake Game,
+			where your strategic thinking and reflexes will be put to the test!
+			Can you guide the snake to victory and achieve the highest score?
+						Let's find out!
 
 ## How to Play
 
