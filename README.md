@@ -1,6 +1,12 @@
-# Snack Game
+# Snake Game
 
-The Snack Game is a simple console-based game where the player controls a snake to eat food and grow longer. The objective is to achieve the highest score possible without colliding with the walls or the snake's own body.
+- The Snake Game is a simple console-based game where the player controls a snake to eat food and grow longer. The objective is to achieve the highest score possible without colliding with the walls or the snake's own body.
+
+- The game is designed using Object-Oriented Programming (OOP) principles, allowing for easy extensibility and modularity. The game follows the SOLID principles, ensuring a clean and maintainable code structure.
+
+- The Snake Game serves as a generic framework that can be easily adapted to create similar types of games, such as Pac-Man or other grid-based games. By leveraging the power of OOP and adhering to SOLID principles, developers can easily replace the game components, such as the snake and food, to create their own unique gaming experiences.
+
+#### So, get ready to embark on a thrilling adventure with the Snake Game, where your strategic thinking and reflexes will be put to the test! Can you guide the snake to victory and achieve the highest score? Let's find out!
 
 ## How to Play
 
@@ -22,11 +28,11 @@ The Snack Game is a simple console-based game where the player controls a snake 
 
 ## Game Components
 
-The Snack Game consists of the following components:
+The Snake Game consists of the following components:
 
 - `Snake`: Represents the snake controlled by the player. It moves on the game board and interacts with the food.
 - `Food`: Represents the food that appears randomly on the game board. The snake can eat the food to grow longer.
-- `SnackBoard`: Manages the game board and tracks the state of the game. It handles collision detection and updates the game elements.
+- `SnakeBoard`: Manages the game board and tracks the state of the game. It handles collision detection and updates the game elements.
 - `Controller`: Controls the flow of the game and handles user input.
 - `Graphic`: Renders the game board and elements on the console.
 
@@ -41,7 +47,7 @@ The Snack Game consists of the following components:
 
 ## Compilation and Execution
 
-To compile and run the Snack Game, follow these steps:
+To compile and run the Snake Game, follow these steps:
 
 1. Make sure you have Java Development Kit (JDK) installed on your system.
 
@@ -50,7 +56,7 @@ To compile and run the Snack Game, follow these steps:
 3. Compile the Java source files using the following command:
 
 ``` java 
-javac BodyPart.java Controller.java Food.java IController.java IFood.java IGame.java IGraphic.java Main.java SnackBoard.java Snake.java
+javac BodyPart.java Controller.java Food.java IController.java IFood.java IGame.java IGraphic.java Main.java SnakeBoard.java Snake.java
 ```
 
 4. Run the game using the following command:
@@ -63,7 +69,7 @@ java Main
 
 ## Contributions
 
-Contributions to the Snack Game project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+Contributions to the Snake Game project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 
 
