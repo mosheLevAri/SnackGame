@@ -9,6 +9,8 @@ The Snack Game is a simple console-based game where the player controls a snake 
    - `S` or `s`: Move the snake down
    - `A` or `a`: Move the snake left
    - `D` or `d`: Move the snake right
+   
+   NOTE : After each navigation, press Enter to confirm the movement.
 
 2. The snake will move continuously in the last chosen direction.
 
