@@ -1,4 +1,5 @@
 # Snake Game
+![image](https://github.com/mosheLevAri/SnakeGame/assets/95866297/a4eada8c-eaf9-4e32-8771-ded6fb7bedc1)
 
 
 
